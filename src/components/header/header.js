@@ -10,7 +10,7 @@ function Header(){
 
 
 <HeaderItem/>
-<HeaderItem/>
+
 
         </div>
        </div>

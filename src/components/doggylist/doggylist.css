@@ -1,0 +1,8 @@
+.doggylist{
+    display: flex;
+    align-self: start;
+    justify-content: space-around;
+    background-color: #E9E9E9;
+    padding: 25px
+    ;
+}
