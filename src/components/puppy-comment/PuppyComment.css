@@ -1,0 +1,44 @@
+.puppy-comment-wrapper {
+    display: flex;
+    gap: 15px;
+    width: 387px;
+    padding: 5px;
+    align-items: center;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255, 0.6);
+}
+
+.puppy-comment-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 60%;
+}
+
+.puppy-comment-title {
+    align-self: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.puppy-comment-paragraph {
+    font-size: 12px;
+    align-self: center;
+    font-weight: 200;
+    text-align: center;
+    width: 90%;
+}
+
+.puppy-comment-name {
+    align-self: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.puppy-comment-image {
+    border-radius: 50%;
+    margin: 15px;
+    height: 120px;
+    width: 120px;
+    align-self: center;
+}

@@ -2,6 +2,8 @@ import "./doggylist.css"
 import Doggycard from "../doggycard/Doggycard";
 import doggyImage from "../../images/doggy11.png";
 import doggyImage2 from "../../images/doggy2 1 (1).png"
+import doggyImage3 from "../../images/doggy3 1.png"
+import doggyImage4 from "../../images/doggy4 2.png"
 
 function Doggylist(){
     return(
@@ -23,7 +25,7 @@ function Doggylist(){
        doggyFuel={"Petrol"}
        />
         <Doggycard 
-       doggyImage={doggyImage} 
+       doggyImage={doggyImage3} 
        doggyName={"Rocky"} 
        doggyModel={"Ford Focus MK2 1.6"}
        doggyFR={"01.09.2007"}
@@ -31,7 +33,7 @@ function Doggylist(){
        doggyFuel={"Sausage"}
        />
         <Doggycard 
-       doggyImage={doggyImage} 
+       doggyImage={doggyImage4} 
        doggyName={"Jonny"} 
        doggyModel={"BMW 320d M3"}
        doggyFR={"18.02.2006"}
