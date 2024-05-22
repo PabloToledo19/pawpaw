@@ -2,27 +2,38 @@
 import './PuppyComment.css'
 import dogy from '../../images/dogo1.jpg'
 
-function PuppyComment(){
+function PuppyComment({
+    title,
+    paragraph,
+    name,
+    image,
+    isReverseRow,
+    isReverseColumn
+}){
+    var direction;
 
+    if(isReverseRow!==undefined){
+        direction= isReverseRow ? 'row-reverse' : 'row';
+    }
 
+    if(isReverseColumn!==undefined){
+        direction= isReverseColumn ? 'column-reverse' : 'column';
+    }
 
     return(
 
-        <div className='puppy-comment-wrapper'>
+        <div className='puppy-comment-wrapper' style={{flexDirection:direction}}>
            <div className='puppy-comment-text-wrapper'>
            <span className='puppy-comment-title'>
-                Life good
+                {title}
             </span>
             <span className='puppy-comment-paragraph'>
-                Lots of food, lots of walkses and lots of food.
-                After i finish paw school I might get good job to repay my hoomans.
-                Then I give them treats...
-                Until then i just cute 
+                {paragraph}
             </span>
-            <span className='puppy-comment-name'>Jake
+            <span className='puppy-comment-name'>{name}
             </span>
            </div>
-           <img src={dogy} className='puppy-comment-image'/>
+           <img src={image} className='puppy-comment-image'/>
         </div>
     );
 }

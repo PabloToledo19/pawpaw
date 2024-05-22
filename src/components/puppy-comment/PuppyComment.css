@@ -1,4 +1,6 @@
 .puppy-comment-wrapper {
+    margin: 10px;
+    
     display: flex;
     gap: 15px;
     width: 387px;
@@ -6,6 +8,7 @@
     align-items: center;
     border-radius: 4px;
     background-color: rgb(255, 255, 255, 0.6);
+    
 }
 
 .puppy-comment-text-wrapper {

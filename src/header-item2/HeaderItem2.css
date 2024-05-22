@@ -1,0 +1,13 @@
+
+.item2 {
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 23.8px;
+    background-color: #FEFEFE;
+    width: 175px;
+    height: 70px;
+    border-radius: 60px 60px 60px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

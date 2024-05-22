@@ -1,5 +1,6 @@
 import logo from '../../images/Logo.png'
 import HeaderItem from "../header-item/HeaderItem"
+import HeaderItem2 from '../../header-item2/HeaderItem2';
 import "./header.css"
 
 function Header(){
@@ -9,7 +10,15 @@ function Header(){
         <div className='homecontainer'>
 
 
-<HeaderItem/>
+<HeaderItem
+item='Home'
+/>
+<HeaderItem
+item='Fluff list'
+/>
+<HeaderItem2 
+item='Contact us'
+/>
 
 
         </div>

@@ -4,7 +4,7 @@ import Header from './components/header/header'
 import Imag from './components/imag/Imag';
 import Doggylist from './components/doggylist/Doggylist';
 import Banner from './components/banner/Banner';
-import PuppyComment from './components/puppy-comment/PuppyComment';
+import Guzik from './components/Guzik/Guzik';
 
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
       <Header />
       <Imag />
       <Doggylist />
+      <Guzik/>
       <Banner />
     </>
 
@@ -19,3 +20,4 @@ function App() {
 }
 
 export default App;
+
