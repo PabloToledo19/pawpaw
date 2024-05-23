@@ -1,0 +1,81 @@
+.contact-form-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    background-color: #E9E9E9;
+    background-image: url('../../images/piesek.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    
+
+}
+.contact-form-headings{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    padding: 27px;
+    
+    
+}
+.contact-form-title{
+    font-size: 20px;
+    font-weight: 600;
+    background: rgb(255, 255, 255, 0.40);
+}
+.contact-form-input-fields{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+
+}
+.contact-form-label{
+    margin-bottom: 10px;
+    background: rgb(255, 255, 255, 0.40);
+    width: 115px;
+
+}
+.contact-form-textarea{
+    height: 235px;
+}
+.contact-form-input-field{
+    margin-bottom: 40px;
+    height: 40px;
+}
+.contact-form-submit-button{
+    
+    border: none;
+    align-self: center;
+    width: 90%;
+    font-size: 30px;
+    background-color: #3D000054;
+    height: 50px;
+    color: white;
+}
+.contact-form-submit-button:hover{
+    background-color: pink;
+    color: blue;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+
+}
+.buttton{
+    height: 70px;
+    background-image: url('../../images/piesek.jpg');
+    background-size: 70px;
+    width: 100%;
+    color: blue;
+    font-weight: 700;
+    font-size: large;
+}
+.contact-form-Bigwrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.contact-form-entry-text{
+    background: rgb(255, 255, 255, 0.40);
+}

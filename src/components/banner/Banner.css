@@ -26,8 +26,11 @@
 }
 .happy-customer{
     color: #ffffff;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
+    width: 450px;
+    transform: translateX(-30px);
+    -webkit-text-stroke: 0.5px black;
 }
 .banner-section-row{
     flex-direction: column;

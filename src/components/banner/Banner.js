@@ -41,7 +41,7 @@ function Banner() {
             image={dogy}
             isReverseColumn={true}
             />
-            <span className='happy-customer'>Over 300 happy customers...and their hoomans</span>
+            <div className='happy-customer'>Over 300 happy customers ... and their hoomans</div>
             </div>
             
 

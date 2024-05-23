@@ -8,4 +8,4 @@ function Guzik() {
     )
 }
 
-export default Guzik;
+export default Guzik
