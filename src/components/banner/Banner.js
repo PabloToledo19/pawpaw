@@ -7,8 +7,6 @@ import PuppyComment from '../puppy-comment/PuppyComment.js'
 import dogy from '../../images/dogo1.jpg'
 function Banner() {
 
-
-
     return (
         <div className='Bigwrapper'>
         <div className='banner-wrapper'>
@@ -43,11 +41,6 @@ function Banner() {
             />
             <div className='happy-customer'>Over 300 happy customers ... and their hoomans</div>
             </div>
-            
-
-
-            
-
         </div>
         </div>
     );
