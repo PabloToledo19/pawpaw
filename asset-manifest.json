@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pawpaw/static/css/main.453ecfac.css",
+    "main.js": "/pawpaw/static/js/main.0661e744.js",
+    "static/js/453.e619eb3c.chunk.js": "/pawpaw/static/js/453.e619eb3c.chunk.js",
+    "static/media/doggo2.png": "/pawpaw/static/media/doggo2.5b65669c676d80ddea4c.png",
+    "static/media/lawyer1.png": "/pawpaw/static/media/lawyer1.5bcfc9d8a3be2c3b122d.png",
+    "static/media/treats1.png": "/pawpaw/static/media/treats1.1b669c0a3bbba1ab6dc5.png",
+    "static/media/ReactLogo.png": "/pawpaw/static/media/ReactLogo.7fbc2ed0fc8cce7ea9ae.png",
+    "static/media/doggo3.png": "/pawpaw/static/media/doggo3.e2b55a9e3cc011eeeb60.png",
+    "static/media/dogos.jpg": "/pawpaw/static/media/dogos.579bac4d024f5a812c29.jpg",
+    "static/media/doggy2 1 (1).png": "/pawpaw/static/media/doggy2 1 (1).b8439b6df2a6b4daa742.png",
+    "static/media/doggy11.png": "/pawpaw/static/media/doggy11.40a33cab70dcbd5a76ad.png",
+    "static/media/doggy4 2.png": "/pawpaw/static/media/doggy4 2.6e36f3c9322c6d04834c.png",
+    "static/media/piesek.jpg": "/pawpaw/static/media/piesek.345869969c8c5677d0d1.jpg",
+    "static/media/doggy3 1.png": "/pawpaw/static/media/doggy3 1.27f151ec55b30a1df5ad.png",
+    "static/media/Logo.png": "/pawpaw/static/media/Logo.5216f7bf25795bc64c55.png",
+    "index.html": "/pawpaw/index.html",
+    "main.453ecfac.css.map": "/pawpaw/static/css/main.453ecfac.css.map",
+    "main.0661e744.js.map": "/pawpaw/static/js/main.0661e744.js.map",
+    "453.e619eb3c.chunk.js.map": "/pawpaw/static/js/453.e619eb3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453ecfac.css",
+    "static/js/main.0661e744.js"
+  ]
+}
